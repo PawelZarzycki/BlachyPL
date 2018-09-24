@@ -1,22 +1,42 @@
 
-# BlachyPL Privacy Policy
+# BlachyPL Polityka Prywatności
 ![Blachy](https://seedroid.com/img/post/covers/1024/pl.pzarzycki.guteklabs.tablicapl.jpg)
 
-InstaSoft built the BlachyPL app as a Commercial app. This SERVICE is provided by InstaSoft and is intended for use as is.
+Instasoft, twórca aplikacji BlachyPL (dalej jako aplikacja mobilna) darzy wszystkich użytkowników szacunkiem i przykłada wielką wagę do poszanowania praw im przysługujących, ze szczególnym uwzględnieniem praw do ochrony prywatności.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Korzystając w jakikolwiek sposób z aplikacji, Użytkownik akceptuje zasady zawarte w niniejszej Polityce Prywatności.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Aplikacja bez zgody Użytkownika nie zbiera danych osobowych, a wyłącznie dane nieposiadające takiego przymiotu, w szczególności dane demograficzne i dane dotyczące użytkowania aplikacji.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at BlachyPL unless otherwise defined in this Privacy Policy.
+# Dane zbierane automatycznie 
+
+Podczas korzystania z aplikacji automatycznie zbierane są dane demograficzne Użytkownika, statystyki użycia aplikacji, itp., które nie są danymi osobowymi i nie pozwalają na jednoznaczne zidentyfikowanie osoby Użytkownika.
+
+# Dane zbierane w celu kontaktu z twórcą aplikacji
+
+W przypadku gdy Użytkownik kontaktuje się z twórcą aplikacji celem dokonania danych czynności (np. wyrażenia opinii lub zgłoszenia błędu) za pomocą poczty e-mail, Użytkownik automatycznie udostępnia swój adres e-mail wyłącznie w celu zwrotnego kontaktu. Podanie danych osobowych nie jest obowiązkowe, natomiast podanie adresu e-mail jest niezbędne do dokonania czynności lub uzyskania informacji.
+
+# Wykorzystywanie danych
+
+Dane zbierane automatycznie mogą być użyte do analizy zachowań użytkowników aplikacji w celu rozwijania jej oraz naprawy ewentualnych błędów zgłoszonych przez Użytkownika.
+
+Dane zbierane w trakcie korespondencji pomiędzy Użytkownikiem, a twórcą aplikacji będą wykorzystane wyłącznie w celu możliwie wyczerpującej i sprawnej odpowiedzi na zapytanie Użytkownika.
+
+# Sposoby zbierania danych
+
+Aplikacja zbiera automatycznie dane dotyczące użytkowników aplikacji przy użyciu zewnętrznych systemów analitycznych, takich jak Google Analytics for Mobile Apps, zgodnie z warunkami korzystania z tych narzędzi i zgodnie z ich politykami prywatności dostępnymi na odpowiednich stronach internetowych.
+
+# Dodatkowe informacje
+
+Niniejsza Polityka Prywatności ma jedynie charakter uzupełniający w stosunku do polityki prywatności Google Play. Twórca aplikacji nie ponosi jakiejkolwiek odpowiedzialności za politykę prywatności Google Play oraz przestrzeganie przepisów Ustawy o ochronie danych osobowych oraz Ustawy o świadczeniu usług drogą elektroniczną w ramach Google Play.
+
+# Kontakt
+
+W przypadku pytań Użytkownika dotyczących niniejszej Polityki Prywatności, Użytkownik powinien wysłać wiadomość e-mail na adres: blachypl.tablice.rejestracyjne@gmail.com
 
 
-## Information Collection and Use
-
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
-
-The app does use third party services that may collect information used to identify you.
-These include:
+Aplikacja używa serwisów zewnętrznych, które mogą zbierać informacje wykorzystywane do pokazywania bardziej dopasowanych reklam.
+Zaliczają się do nich:
 Flashtalking
 Aunica
 gskinner
@@ -38,44 +58,9 @@ AdLedge
 DataXu
 DoubleVerify
 
+Dane będą wykorzystywane przez administratora w celach badawczych i statystycznych oraz w celu optymalizacji wyświetlania reklam na urządzeniu użytkownika. Dane będą pobierane przez administratora bieżąco i przetwarzane na serwerach administratora z zachowaniem podstawowych zasad ochrony przewidzianych dla danych osobowych. Podmiotom trzecim będą udostępniane jedynie zbiorcze dane o charakterze statystycznym. Administrator nie będzie podejmować jakichkolwiek działań, które miałyby prowadzić do naruszenia anonimowości osób, których dane są zbierane i podejmie wszelkie racjonalne środki ochrony przed identyfikacją charakteru zbieranych danych.
 
+Zbieranie danych następuje na podstawie zgody użytkownika. Zgoda jest udzielana na podstawie informacji udzielanej przez administratora. Szczegóły dotyczące przetwarzania danych przez administratora zawarte są w jego polityce prywatności.
 
-## Google Play Services Log Data
+Ze względów technicznych usunięcie kodu jest możliwe jedynie przez usunięcie Aplikacji.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
-## Cookies
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-## Service Providers
-
-I may employ third-party companies and individuals due to the following reasons:
-
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-## Security
-
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-## Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-## Children’s Privacy
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
-## Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-## Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.  mail: blachypl.tablice.rejestracyjne@gmail.com
