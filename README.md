@@ -1,6 +1,6 @@
 
 # BlachyPL Polityka Prywatności
-![Blachy](https://seedroid.com/img/post/covers/1024/pl.pzarzycki.guteklabs.tablicapl.jpg)
+
 
 Instasoft, twórca aplikacji BlachyPL (dalej jako aplikacja mobilna) darzy wszystkich użytkowników szacunkiem i przykłada wielką wagę do poszanowania praw im przysługujących, ze szczególnym uwzględnieniem praw do ochrony prywatności.
 
@@ -64,3 +64,4 @@ Zbieranie danych następuje na podstawie zgody użytkownika. Zgoda jest udzielan
 
 Ze względów technicznych usunięcie kodu jest możliwe jedynie przez usunięcie Aplikacji.
 
+![Blachy](https://seedroid.com/img/post/covers/1024/pl.pzarzycki.guteklabs.tablicapl.jpg)
